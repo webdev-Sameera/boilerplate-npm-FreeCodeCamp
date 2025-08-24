@@ -1,6 +1,6 @@
 {
-	"author": "Sameera Pujari",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Sameera Pujari",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
